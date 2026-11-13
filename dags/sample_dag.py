@@ -1,5 +1,3 @@
-raise RuntimeError("Q3 intentional DAG import error")
-
 import pendulum
 
 from airflow.providers.standard.operators.empty import EmptyOperator
