@@ -6,7 +6,7 @@
 
 
 ## 실습 환경
-GitHub Codespaces에서 Docker Compose로 실습 환경을 구성했다.
+GitHub Codespaces에서 Docker Compose로 Airflow와 Spark 실행 환경을 구성했다.
 
 ## 회고
-Airflow와 Spark를 사용해 데이터 처리 과정을 실습했다.
+Airflow 태스크를 순서대로 연결하고 Spark 집계 결과를 S3에 저장하는 과정을 익혔다.
