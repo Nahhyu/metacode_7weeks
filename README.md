@@ -1,12 +1,12 @@
-
 # 데이터 엔지니어링 7주차 과제
 
 - 기수: 8기
 - 이름: 배나현
 
-
 ## 실습 환경
-동일한 GitHub Codespaces 환경에서 Docker Compose와 AWS S3를 사용했다.
+동일한 GitHub Codespaces 환경에서 Docker Compose로 Airflow와 Spark를 실행했다.
+AWS S3를 입력 데이터와 처리 결과의 저장소로 사용했다.
 
 ## 회고
+Airflow 태스크를 순서대로 연결하고 Spark 집계 결과를 S3에 저장하는 과정을 익혔다.
 컨테이너 상태와 태스크 로그를 확인하며 실행 오류의 원인을 점검하는 방법을 익혔다.
