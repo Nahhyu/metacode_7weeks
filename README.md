@@ -6,7 +6,7 @@
 
 
 ## 실습 환경
-GitHub Codespaces에서 Docker Compose로 실습 환경을 구성했다.
+동일한 GitHub Codespaces 환경에서 Docker Compose와 AWS S3를 사용했다.
 
 ## 회고
-Airflow와 Spark를 사용해 데이터 처리 과정을 실습했다.
+컨테이너 상태와 태스크 로그를 확인하며 실행 오류의 원인을 점검하는 방법을 익혔다.
